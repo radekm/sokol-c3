@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //  clear/main.c3
 //
-//  Minimal sample which just clears the default framebuffer
+//  Minimal sample which just clears the default framebuffer.
 //------------------------------------------------------------------------------
 
 import std::io;
